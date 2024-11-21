@@ -33,6 +33,14 @@ function generateQuote(){
 
 
 
+
+
+
+
+
+
+
+
     var quotes =[ {
         quote : "“Be yourself; everyone else is already taken.”",
         author : " Oscar Wilde"},
